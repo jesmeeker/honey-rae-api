@@ -58,16 +58,16 @@
     },
     {
       "id": 3,
-      "address": "7346 Ritchie Road",
-      "phoneNumber": "(507) 720-1157",
+      "address": "7346 Ritchie Boulevard",
+      "phoneNumber": "740-370-2230",
       "userId": 3
     }
   ],
   "employees": [
     {
       "id": 1,
-      "specialty": "PC Repair",
-      "rate": 72.47,
+      "specialty": "PC Repair and Mac repairs",
+      "rate": 99.47,
       "userId": 4
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "userId": 2,
-      "description": "Computer is legit broken.",
+      "description": "Jessica",
       "emergency": true,
       "dateCompleted": "",
       "id": 6
@@ -142,6 +142,11 @@
       "id": 3,
       "employeeId": 1,
       "serviceTicketId": 4
+    },
+    {
+      "employeeId": 2,
+      "serviceTicketId": 2,
+      "id": 4
     }
   ]
 }
