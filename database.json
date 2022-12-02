@@ -85,13 +85,6 @@
   ],
   "serviceTickets": [
     {
-      "id": 1,
-      "userId": 3,
-      "description": "Computer is broken.",
-      "emergency": false,
-      "dateCompleted": "Fri Apr 29 2022 14:02:20 GMT-0500 (Central Daylight Time)"
-    },
-    {
       "id": 2,
       "userId": 3,
       "description": "Internet doesn't work.",
@@ -106,11 +99,11 @@
       "dateCompleted": ""
     },
     {
-      "id": 4,
-      "userId": 2,
+      "userId": 4,
       "description": "Mouse isn't tracking.",
       "emergency": false,
-      "dateCompleted": ""
+      "dateCompleted": "2022-12-01T21:08:22.737Z",
+      "id": 4
     },
     {
       "id": 5,
@@ -120,19 +113,21 @@
       "dateCompleted": "Fri Apr 29 2022 21:24:29 GMT-0500 (Central Daylight Time)"
     },
     {
-      "userId": 2,
+      "userId": 6,
       "description": "Jessica",
       "emergency": true,
-      "dateCompleted": "",
+      "dateCompleted": "2022-12-01T20:32:25.002Z",
       "id": 6
+    },
+    {
+      "userId": 2,
+      "description": "aosdfjaiopsdja ",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 7
     }
   ],
   "employeeTickets": [
-    {
-      "id": 1,
-      "employeeId": 3,
-      "serviceTicketId": 1
-    },
     {
       "id": 2,
       "employeeId": 2,
